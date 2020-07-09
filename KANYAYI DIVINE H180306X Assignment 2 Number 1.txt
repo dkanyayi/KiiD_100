@@ -1,0 +1,16 @@
+DIVINE KANYAYI 
+H180306X
+Computer Science
+Web Designing Concepts
+
+Steps On How To Build a Website
+1. Obtain a domain name and web hosting
+2. Set up the site by installing important extensions
+3. Set up site security using security tools
+4. Design the framework and appearance
+5. Create content by categorizing e.g texts and images
+6. Set up site navigation by making menus and links
+7. Create custom modules and features as well as styles
+8. Add multimedia and animations 
+9. Design and use feedback forms 
+10. Backup the site and manage it
